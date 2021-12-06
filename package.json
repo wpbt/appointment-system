@@ -1,0 +1,22 @@
+{
+  "name": "appointment-system",
+  "version": "1.0.0",
+  "description": "React application for appointments",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpbt/appointment-system.git"
+  },
+  "author": "bharat thapa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wpbt/appointment-system/issues"
+  },
+  "homepage": "https://github.com/wpbt/appointment-system#readme",
+  "dependencies": {
+    "jest": "^27.4.3"
+  }
+}
